@@ -1,0 +1,13 @@
+# Deep Survival Analysis and Uncertainty Quantification for Bankruptcy Prediction and Intervention
+
+## Structure
+
+```
+├── data                <- Raw data files(csv)
+├── notebooks           <- Jupyter notebooks for data exploration & experiments
+└── src                 <- Python scripts for training & evaluation & inference
+    ├── dataloader
+    ├── eval
+    ├── models
+    └── train
+```
